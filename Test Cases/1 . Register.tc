@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create a new account with happy day scenario</description>
+   <name>1 . Register</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>85dcdef6-0cc8-4e1c-a3da-ce88da011500</testCaseGuid>
+</TestCaseEntity>
