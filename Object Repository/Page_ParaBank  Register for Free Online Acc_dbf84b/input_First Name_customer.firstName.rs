@@ -6,12 +6,12 @@
    <elementGuidId>df131ae3-a12c-410f-883b-9e56036746e8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='customer.firstName']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='customer.firstName']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>000f55c1-31aa-46bf-bbad-37578a71ebad</webElementGuid>
+      <webElementGuid>341a90c6-2c4d-49f9-82ae-82c3cac91e38</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>customer.firstName</value>
-      <webElementGuid>46c8efec-ba7f-4189-bcc9-b2a4a7aeea3e</webElementGuid>
+      <webElementGuid>dad0ff45-52c2-41b2-a139-6df77d05a107</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>customer.firstName</value>
-      <webElementGuid>db4dcc97-2aaf-4319-81f2-f25d9063ae04</webElementGuid>
+      <webElementGuid>265fccf3-3c87-4d7e-9475-d30f9c0da3b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0b8faaf1-4b26-49d8-9dd9-2641ebe50a7f</webElementGuid>
+      <webElementGuid>13b52732-bc76-4f33-a567-9d8971accf89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>c174f972-89b3-4d2f-ac75-09d949c024ba</webElementGuid>
+      <webElementGuid>3f5e9459-dfa0-42a7-a41c-d1d6e4b96b45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;customer.firstName&quot;)</value>
-      <webElementGuid>2e611c84-88bc-49d2-8135-cf1f20446b70</webElementGuid>
+      <webElementGuid>093e06df-62f2-427e-92bb-2cdc302c669e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='customer.firstName']</value>
-      <webElementGuid>cdceb229-ccfc-428d-9aef-44cca308c94d</webElementGuid>
+      <webElementGuid>43403a23-e6df-43d6-ac5a-fdafec164bfa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='customerForm']/table/tbody/tr/td[2]/input</value>
-      <webElementGuid>857019f8-1c29-40c9-a3e4-ba7cf64e2b2f</webElementGuid>
+      <webElementGuid>0c01809a-b895-43be-9fc3-7a73c67fafeb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[2]/input</value>
-      <webElementGuid>634b6075-e78c-434d-8076-9d086a0e6c07</webElementGuid>
+      <webElementGuid>f859f137-aa14-4e30-9bc3-6839745ead9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'customer.firstName' and @name = 'customer.firstName' and @type = 'text']</value>
-      <webElementGuid>cbf5d051-1205-49f5-b546-4e7adf82dfbf</webElementGuid>
+      <webElementGuid>fd24e581-a4b5-4817-8f46-3d08158a06a2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

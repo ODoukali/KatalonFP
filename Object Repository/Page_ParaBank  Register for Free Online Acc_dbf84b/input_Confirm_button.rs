@@ -6,12 +6,12 @@
    <elementGuidId>c6f370d2-e15c-4554-8aed-474cad1ece35</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@value='Register']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>td:nth-of-type(2) > input.button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Register']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>615d33f1-e951-4324-891e-6396aa99e36c</webElementGuid>
+      <webElementGuid>c44f3a91-4415-4f29-a608-7d05ca9c59ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>56cc13c7-b2cf-4ac0-b0a1-642ec933873c</webElementGuid>
+      <webElementGuid>6096989c-d892-4cca-be0b-2ac14d902f8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0bb59871-2830-491f-8f2d-2608f8116753</webElementGuid>
+      <webElementGuid>d0b4afc0-5032-40a0-b032-d00d79f35257</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Register</value>
-      <webElementGuid>25291b29-a144-4604-90da-de71bbe570df</webElementGuid>
+      <webElementGuid>e46bf081-129e-41dd-afa7-e69aef3e807d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;customerForm&quot;)/table[@class=&quot;form2&quot;]/tbody[1]/tr[13]/td[2]/input[@class=&quot;button&quot;]</value>
-      <webElementGuid>7ae3fb00-b203-46c6-a58b-eb2f20f73972</webElementGuid>
+      <webElementGuid>84558dba-e69a-436e-a453-6e1b8de3e60f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='Register']</value>
-      <webElementGuid>f3ceb4ce-d7f5-4b71-8d0d-89cf1644ec91</webElementGuid>
+      <webElementGuid>8590d567-498a-48e0-92b2-5cca9a80d9cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='customerForm']/table/tbody/tr[13]/td[2]/input</value>
-      <webElementGuid>483aaf60-4e56-4c97-8458-c54c970fbf8d</webElementGuid>
+      <webElementGuid>53fa044c-f141-4782-bf6d-f7b1b7833627</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[13]/td[2]/input</value>
-      <webElementGuid>d96ead68-1c0e-45f6-80c1-b4ae5d3ec6f4</webElementGuid>
+      <webElementGuid>73303327-ce6f-4bb3-926e-ca65cff459b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit']</value>
-      <webElementGuid>7b5d37c9-feef-4096-8c90-93a182b4aec3</webElementGuid>
+      <webElementGuid>8b4280d6-1a42-4466-99b1-1d6ef716f009</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

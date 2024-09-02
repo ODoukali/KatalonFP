@@ -6,12 +6,12 @@
    <elementGuidId>99950549-4f85-4ae5-a4fc-239b11af6b7b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='customer.address.zipCode']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='customer.address.zipCode']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>21e1a9ae-64b9-4f7b-ae55-87deb5f34dfa</webElementGuid>
+      <webElementGuid>68e91137-c5b5-4357-98a0-3db62d3719b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>customer.address.zipCode</value>
-      <webElementGuid>a926f150-fa6d-432c-9df2-ae0453f0e127</webElementGuid>
+      <webElementGuid>19e4be06-63a1-42a0-9063-d658f7a1126f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>customer.address.zipCode</value>
-      <webElementGuid>b424efe5-5b4a-43d0-b647-6f9802e54160</webElementGuid>
+      <webElementGuid>b23a6803-7800-459f-ac9d-ff499a1ed19b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0206501a-69bc-432f-ad33-cc0e36ed919b</webElementGuid>
+      <webElementGuid>b9a1694a-6d84-45a2-9e2e-29a5c64768c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>4fb5bdd4-7c7e-4b92-b42d-bb27c87e03ba</webElementGuid>
+      <webElementGuid>d1db0ceb-ab39-4377-9675-0ec01669d4e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;customer.address.zipCode&quot;)</value>
-      <webElementGuid>a06e3867-3e93-47a0-a734-860ddcc5ac14</webElementGuid>
+      <webElementGuid>ae94c07d-76a6-4680-9c6e-9ce7258f2d8e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='customer.address.zipCode']</value>
-      <webElementGuid>105938db-d60b-431a-a708-c8cc13174e8d</webElementGuid>
+      <webElementGuid>52bac229-003a-4173-a865-a0166e366d4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='customerForm']/table/tbody/tr[6]/td[2]/input</value>
-      <webElementGuid>eebe9169-a6cc-4846-8900-46a09ba95356</webElementGuid>
+      <webElementGuid>956fb3e8-6ea6-4c3f-b866-17c03af7c459</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[6]/td[2]/input</value>
-      <webElementGuid>1f92c3d6-b9fe-430b-ad95-2310c45d1910</webElementGuid>
+      <webElementGuid>18f7bda9-5130-416d-949b-4edc34d6cef8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'customer.address.zipCode' and @name = 'customer.address.zipCode' and @type = 'text']</value>
-      <webElementGuid>1e2a6256-3981-476c-9b0e-b35969e4d356</webElementGuid>
+      <webElementGuid>6b8615b6-e3cc-48bb-b04f-31a1d6f7000e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

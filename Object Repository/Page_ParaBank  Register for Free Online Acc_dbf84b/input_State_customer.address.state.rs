@@ -6,12 +6,12 @@
    <elementGuidId>28443717-89bd-4339-bee1-05e89fb58517</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='customer.address.state']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='customer.address.state']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c5d13ada-efd7-4a7d-a6fa-97ccf0be843c</webElementGuid>
+      <webElementGuid>001f0b9f-a2e1-45bc-a967-2d57151638f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>customer.address.state</value>
-      <webElementGuid>1445b465-e498-41cb-b487-688b0cb3ea6f</webElementGuid>
+      <webElementGuid>cebb77cf-d38a-4630-a6ae-b58af645daeb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>customer.address.state</value>
-      <webElementGuid>a80f2a64-8f6b-495b-9785-5e15958c62d5</webElementGuid>
+      <webElementGuid>e3d779d2-4d41-46ea-9be5-fa8c09fd8bcb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>853e895a-78b3-4b5f-835f-a117c86d6805</webElementGuid>
+      <webElementGuid>ffa46175-9f3a-4b12-bcdf-45ff36561418</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>f32071c7-bcb0-4d2a-98fc-00f6e11b0bf9</webElementGuid>
+      <webElementGuid>c239307d-4330-470c-a2b6-f72d69965418</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;customer.address.state&quot;)</value>
-      <webElementGuid>e1457572-b1a8-4e4d-93d3-711ca96f2876</webElementGuid>
+      <webElementGuid>b75b4cb8-6058-4491-a2f7-9b2d41a79a6f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='customer.address.state']</value>
-      <webElementGuid>a3ab18f8-3ed6-4511-b135-31d639bf6f6a</webElementGuid>
+      <webElementGuid>c37bc9b1-0676-4b52-87e8-04cea4207022</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='customerForm']/table/tbody/tr[5]/td[2]/input</value>
-      <webElementGuid>c3121b21-4c40-4146-b5c3-e62f6cef9efe</webElementGuid>
+      <webElementGuid>571089c7-9d61-4f89-a994-c87bd09b67bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[5]/td[2]/input</value>
-      <webElementGuid>bf24b9ab-5a87-4dfe-aa3d-6d1c0cfe234d</webElementGuid>
+      <webElementGuid>06a0f06e-c15a-4503-b51d-7742d175620c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'customer.address.state' and @name = 'customer.address.state' and @type = 'text']</value>
-      <webElementGuid>9b99b668-1f36-461f-8908-8d3661cec210</webElementGuid>
+      <webElementGuid>aceaa33f-b071-4f02-8808-256992f2a914</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>771b7b06-8313-49e4-bd8e-b1208b1a516f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='customer.address.city']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='customer.address.city']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>75ebc035-25e1-4665-8f75-d0607d707f0f</webElementGuid>
+      <webElementGuid>c89ddceb-7d56-4ebc-a515-3b5cf8430cec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>customer.address.city</value>
-      <webElementGuid>6cb8af7f-49a3-41b9-9538-e1027fd7920b</webElementGuid>
+      <webElementGuid>3850ec36-bc99-4a6d-a1f2-0074d05c5394</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>customer.address.city</value>
-      <webElementGuid>11f8ce95-0975-4728-8a4f-e99ab7466f9d</webElementGuid>
+      <webElementGuid>30b98982-8f20-4a45-b6e8-7aca2abe063e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>cbcafc5b-a713-472c-bb99-eee54deb69a9</webElementGuid>
+      <webElementGuid>72087ea6-ae55-4b45-ab04-3508f8f81ba9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>a8f1cbe5-b29a-496f-8d13-dbbbff3c52de</webElementGuid>
+      <webElementGuid>ec98d395-6fc7-427e-b155-b44c05f82dd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;customer.address.city&quot;)</value>
-      <webElementGuid>66a2b196-d314-49fe-a482-5db59b2c361e</webElementGuid>
+      <webElementGuid>d7592741-61bb-4218-9d3e-6104a3212c49</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='customer.address.city']</value>
-      <webElementGuid>a61ab666-29bd-409e-9cca-757437ddbe11</webElementGuid>
+      <webElementGuid>e70fef2a-7ffe-4793-8a39-78325341d2a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='customerForm']/table/tbody/tr[4]/td[2]/input</value>
-      <webElementGuid>0b016a1d-6fb0-4fa0-bcee-a13a3e8f8e08</webElementGuid>
+      <webElementGuid>b7559cda-6ef7-4633-a85e-41df8bb87406</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[4]/td[2]/input</value>
-      <webElementGuid>f6c0f040-ead5-476e-833e-a5845654c6c2</webElementGuid>
+      <webElementGuid>3900093c-6fd3-4ad4-8a14-1c7afe08c5a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'customer.address.city' and @name = 'customer.address.city' and @type = 'text']</value>
-      <webElementGuid>ad1e09f0-fe23-4948-ad03-99982c73ff93</webElementGuid>
+      <webElementGuid>eec3a553-ac46-4698-bf81-a3268dea25d8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
